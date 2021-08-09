@@ -1,6 +1,6 @@
 {
-    "name": "brozot/laravel-fcm",
-    "description": "Laravel / Lumen package for Firebase Cloud Messaging ",
+    "name": "awanesia/laravel-fcm",
+    "description": "Laravel / Lumen package for Firebase Cloud Messaging enhance from brozot",
     "keywords": ["laravel", "lumen", "firebase", "notification", "push", "fcm", "firebase cloud messaging"],
     "type": "library",
     "license": "MIT",
